@@ -69,7 +69,7 @@ endmodule
 ```
 
 
- Developed by:Avanthika M RegisterNumber:212224110009
+
 
 
 **RTL LOGIC FOR FLIPFLOPS**
